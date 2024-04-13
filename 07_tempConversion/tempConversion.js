@@ -23,8 +23,8 @@ const convertToFahrenheit = function (celsius) {
 };
 
 // function call
-// console.log(convertToCelsius(100));
-console.log(convertToFahrenheit(-32));
+console.log(convertToCelsius(100));
+console.log(convertToFahrenheit(32));
 
 // Do not edit below this line
 module.exports = {
